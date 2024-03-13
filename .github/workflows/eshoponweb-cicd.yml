@@ -10,6 +10,7 @@ env:
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: f8e36a82-3451-4c62-b144-f4898a2f89da
   WEBAPP-NAME: eshoponweb-webapp-clau
+  SKU: FREE
 
 
 jobs:
